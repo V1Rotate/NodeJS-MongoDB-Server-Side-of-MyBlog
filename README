@@ -1,0 +1,4 @@
+This is the server-side of MyBlog project. Future MERN project.
+
+Technologies used so far: NodeJS, ExpressJS, MongoDB, Mongoose, as well as Bcrypt, Jsonwebtoken and Express-validator for user authentification.
+During the development process I used MongoDB Compass and Insomnia for HTTP requests.
